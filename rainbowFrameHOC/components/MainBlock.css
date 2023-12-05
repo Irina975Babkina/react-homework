@@ -1,0 +1,6 @@
+.MainBlock {
+    margin: 150px auto 0;
+    border: 4px rgb(185, 180, 180) double;
+    width: 550px;
+    text-align: center;
+}

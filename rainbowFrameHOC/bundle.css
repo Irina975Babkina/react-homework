@@ -1,0 +1,33 @@
+.MainBlock {
+    margin: 150px auto 0;
+    border: 4px rgb(185, 180, 180) double;
+    width: 550px;
+    text-align: center;
+}.DoubleButton {
+    padding: 10px;
+    background-color: rgb(192, 243, 226);
+}
+.DoubleButton input.Button {
+    padding: 5px 8px;
+    margin: 10px;
+    font-size: 17px;
+    color: rgb(63, 55, 55);
+    background-color: rgb(177, 234, 245);
+    border: 3px rgb(101, 165, 208) double;
+  }
+    
+  .DoubleButton input.Button:hover {
+    background-color: rgb(101, 165, 208);
+    border: 3px rgb(87, 140, 175) double;
+    color: white;
+  }
+    
+  .DoubleButton input.Button:active {
+    box-shadow: 0px 0px 10px rgb(216, 210, 210) inset;
+  }
+
+  .DoubleButton span {
+    font-size: 20px;
+    font-weight: 500;
+  }
+/*# sourceMappingURL=bundle.css.map*/
